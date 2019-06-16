@@ -1,0 +1,6 @@
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\maasHesaplama\bin\Debug\maasHesaplama.exe.config
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\maasHesaplama\bin\Debug\maasHesaplama.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\maasHesaplama\bin\Debug\maasHesaplama.pdb
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\maasHesaplama\obj\Debug\maasHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\maasHesaplama\obj\Debug\maasHesaplama.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\maasHesaplama\obj\Debug\maasHesaplama.pdb

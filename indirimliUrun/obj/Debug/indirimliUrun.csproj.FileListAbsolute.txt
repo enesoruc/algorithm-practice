@@ -1,0 +1,7 @@
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\indirimliUrun\bin\Debug\indirimliUrun.exe.config
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\indirimliUrun\bin\Debug\indirimliUrun.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\indirimliUrun\bin\Debug\indirimliUrun.pdb
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\indirimliUrun\obj\Debug\indirimliUrun.csprojAssemblyReference.cache
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\indirimliUrun\obj\Debug\indirimliUrun.csproj.CoreCompileInputs.cache
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\indirimliUrun\obj\Debug\indirimliUrun.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\indirimliUrun\obj\Debug\indirimliUrun.pdb

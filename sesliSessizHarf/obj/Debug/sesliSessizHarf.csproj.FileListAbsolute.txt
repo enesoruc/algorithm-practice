@@ -1,0 +1,6 @@
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\sesliSessizHarf\bin\Debug\sesliSessizHarf.exe.config
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\sesliSessizHarf\bin\Debug\sesliSessizHarf.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\sesliSessizHarf\bin\Debug\sesliSessizHarf.pdb
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\sesliSessizHarf\obj\Debug\sesliSessizHarf.csproj.CoreCompileInputs.cache
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\sesliSessizHarf\obj\Debug\sesliSessizHarf.exe
+C:\Users\Eness\source\repos\EnesOrucOdev_21022019\sesliSessizHarf\obj\Debug\sesliSessizHarf.pdb
